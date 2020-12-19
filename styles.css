@@ -1,0 +1,15 @@
+.inline{
+    display: inline;
+    padding : 1rem 2rem;
+    margin: auto;
+    float: right;
+}
+
+.inline1{
+    display:inline;
+    color:rgb(15,37,148);
+    padding : 1rem 2rem;
+    margin: auto;
+}
+
+
